@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Jai Agrawal</h1>
+<h3 align="center">🚀 CSE Undergrad | 💻 Full Stack Developer | ⚔️ Java DSA Warrior</h3>
 
-<!--
-**jaiii2909/jaiii2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&lines=I+love+learning+and+building!;3rd+year+CSE+student+%F0%9F%92%BB;Full+Stack+Dev+Enthusiast+%F0%9F%9A%80;Java+DSA+Explorer+%F0%9F%94%A5;Always+open+to+collab+%F0%9F%A4%9D" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 3rd Year CSE Undergrad  
+- 💡 Passionate about **learning and implementing** new tech  
+- 🌐 Full Stack Development enthusiast  
+- 🔍 Exploring **Backend Technologies** currently  
+- ☕ Java for DSA and building solid foundations  
+- 🤝 Open for **collaborations, hackathons, and opportunities**
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+💻 Languages: Java, JavaScript, HTML, CSS  
+🧠 Frameworks: Node.js, Express.js  
+🛢️ Databases: MongoDB  
+🧰 Tools: Git, GitHub, VS Code, Postman
