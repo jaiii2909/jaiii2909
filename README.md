@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jai Agrawal</h1>
-<h3 align="center">🚀 CSE Undergrad | 💻 Full Stack Developer | ⚔️ Java DSA Warrior</h3>
+<h3 align="center">🚀 CSE Undergrad | 💻 Full Stack Developer | ⚔️ Java DSA</h3>
 
 
 
