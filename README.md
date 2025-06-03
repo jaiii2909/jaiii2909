@@ -25,3 +25,7 @@
 🧠 Frameworks: Node.js, Express.js  
 🛢️ Databases: MongoDB  
 🧰 Tools: Git, GitHub, VS Code, Postman
+
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaiii2909&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiii2909&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiii2909&layout=compact&theme=tokyonight&hide_border=true" /> </p>
