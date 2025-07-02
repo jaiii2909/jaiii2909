@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd Year CSE Undergrad  
+- 🎓 Final Year CSE Undergrad  
 - 💡 Passionate about **learning and implementing** new tech  
 - 🌐 Full Stack Development enthusiast  
 - 🔍 Exploring **Backend Technologies** currently  
