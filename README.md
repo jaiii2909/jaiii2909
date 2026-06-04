@@ -14,6 +14,10 @@
   <a href="mailto:jaiagrawal022@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="right">
+  <sub>B.Tech CSE · 2026  ·  United Institute of Technology, Prayagraj</sub>
+</p>
+
 ---
 
 ## About
@@ -24,17 +28,6 @@ focus   : Backend systems · API design · AI integration
 dsa     : 200+ problems on LeetCode & CodeChef
 extras  : Hackathons · Cloud · Photography (25K+ Pinterest views)
 ```
-
----
-
-## Highlights
-
-| Metric | Detail |
-|--------|--------|
-| 200+ | DSA problems solved across LeetCode & CodeChef |
-| Top 10 | National finalist — HackQuest Hackathon, May 2025 |
-| 2nd Rank | SFTD Bootcamp, MNNIT Prayagraj, Apr 2025 |
-| Top 80 | GenAI Study Jams Contributor (GDSC), 2024 |
 
 ---
 
@@ -77,19 +70,6 @@ extras  : Hackathons · Cloud · Photography (25K+ Pinterest views)
 
 **Concepts**
 `Data Structures & Algorithms`   `Object-Oriented Programming`   `REST API Design`   `Database Management`   `VAPT`   `Multi-tenant Architecture`   `Real-time Systems`
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaiii2909&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiii2909&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiii2909&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
 ---
 
