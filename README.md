@@ -33,7 +33,6 @@ B.Tech in Computer Science (2026) from United Institute of Technology, Prayagraj
 
 - Solved 200+ problems on LeetCode and CodeChef
 - Regular hackathon participant
-- Photography, with 25K+ views on Pinterest
 
 ## Contact
 
